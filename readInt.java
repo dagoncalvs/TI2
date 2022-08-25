@@ -4,7 +4,7 @@ class readInt {
     public static Scanner sc = new Scanner(System.in);
 
     public static void main(String args[]) {
-        // Declaracao de variaveis
+        // Declaracao de 12 variaveis
         int num1, num2, soma;
         // Leituras
         System.out.println("Digite um número");
